@@ -1,5 +1,5 @@
 {
-    "name": "LLM powered supported for error-prune OCR data",
+    "name": "LLM supported workflow for processing faulty OCR",
 
     // Configure tool-specific properties.
     "customizations": {
